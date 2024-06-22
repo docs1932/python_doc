@@ -1,5 +1,9 @@
-# 1.简介
 
+# 1.简介
+```
+Anaconda 是 Anaconda 是一个开源的 Python 和 R 语言的集成开发环境，
+它为 Python 和 R 语言的安装、配置、运行提供了一套完整的解决方案。
+```
 # 2.下载安装
 ## 2.1 Anaconda 下载链接
 https://repo.anaconda.com/archive/
@@ -96,7 +100,7 @@ pip uninstall XXX
 
 https://blog.csdn.net/qq_41946216/article/details/129478882 (安装配置 anaconda)
 
-# 2.PyCharm 打开一个项目后，配置过程
+# 3.PyCharm 打开一个项目后，配置过程
 ```
 以 ChatTTS 为例
 File -> Settings -> Project: ChatTTS -> Python Interpreter -> 
