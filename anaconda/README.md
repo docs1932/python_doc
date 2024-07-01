@@ -21,7 +21,7 @@ X 不要勾选 Add Anaconda 3 to my PATH environment variable
 3.Install 即可
 ```
 
-## 2.3 配置环境变量
+## 2.3 配置环境变量 (不建议配置环境变量！！！)
 ```
 1.找到 Anaconda 安装目录下的 Scripts 目录
 D:\software\software_for_develop\anaconda\Scripts
@@ -34,6 +34,12 @@ D:\software\software_for_develop\anaconda\Scripts
 点击后，如果能在命令行左侧的括号中看到base，则代表安装成功！
 
 输入 python --version 显示默认python版本
+
+!!!!!!!!!!!!!! 重要 !!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!! 重要 !!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!! 重要 !!!!!!!!!!!!!!!!!!!!!!
+如果要切换到其他目录，可以以 powershell 模式打开 Anaconda Prompt，然后切换到对应的目录即可
+注意如果要执行 pip，可能不需要使用 conda activate xxx (请结合实际情况自行分析)
 ```
 
 ## 2.5 配置镜像
